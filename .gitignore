@@ -1,0 +1,8 @@
+# Ignore node_modules and .env in ALL subfolders
+**/node_modules/
+**/.env
+
+# Other common ignores (optional but useful)
+dist/
+*.log
+.vscode/
